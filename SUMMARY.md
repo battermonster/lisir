@@ -17,4 +17,5 @@
 * [14.函数](14.-han-shu.md)
 * [15.局部变量和全局变量](15.-ju-bu-bian-liang-he-quan-ju-bian-liang.md)
 * [16.面向对象](16.-mian-xiang-dui-xiang.md)
+* [17.练习：模拟《绝地求生》](17.-lian-xi-mo-ni-jue-di-qiu-sheng.md)
 
