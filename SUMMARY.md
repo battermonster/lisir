@@ -13,4 +13,8 @@
 * [10.Python数据类型转换](python-shu-ju-lei-xing-zhuan-huan.md)
 * [11.关系运算符](11.-guan-xi-yun-suan-fu.md)
 * [12.判断语句](12.-pan-duan-yu-ju.md)
+* [13.循环](13.-xun-huan.md)
+* [14.函数](14.-han-shu.md)
+* [15.局部变量和全局变量](15.-ju-bu-bian-liang-he-quan-ju-bian-liang.md)
+* [16.面向对象](16.-mian-xiang-dui-xiang.md)
 
